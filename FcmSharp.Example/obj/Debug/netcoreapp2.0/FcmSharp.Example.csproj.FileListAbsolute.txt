@@ -1,0 +1,12 @@
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\bin\Debug\netcoreapp2.0\FcmSharp.Example.deps.json
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\bin\Debug\netcoreapp2.0\FcmSharp.Example.runtimeconfig.json
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\bin\Debug\netcoreapp2.0\FcmSharp.Example.runtimeconfig.dev.json
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\bin\Debug\netcoreapp2.0\FcmSharp.Example.dll
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\bin\Debug\netcoreapp2.0\FcmSharp.Example.pdb
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.csprojAssemblyReference.cache
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.AssemblyInfoInputs.cache
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.AssemblyInfo.cs
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.csproj.CoreCompileInputs.cache
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.dll
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.pdb
+C:\Users\lsgonzalez\Desktop\FcmSharp-master\FcmSharp-master\FcmSharp\Examples\CSharp\FcmSharp.Example\obj\Debug\netcoreapp2.0\FcmSharp.Example.genruntimeconfig.cache
